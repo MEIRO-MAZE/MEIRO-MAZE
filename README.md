@@ -18,10 +18,10 @@
 ## 🛠️ Technologies We Use
 
 ```
-🔧 Hardware: Arduino, Raspberry Pi, Sensors, Motors
-💻 Software: C++, Python, ROS (Robot Operating System)
-🎮 Control: Wireless Communication, Computer Vision
-📡 Navigation: GPS, IMU, LIDAR, Camera Systems
+🔧 Hardware: STM32, Jetson Platform, Sensors, Actuators
+💻 Software: C/C++, Python, ROS (Robot Operating System)
+🎮 Control: Autonomous, Computer Vision
+📡 Navigation: Distance Sensor, LIDAR, Camera Systems
 ```
 
 ## 📊 Team Statistics
@@ -43,7 +43,7 @@
 ## 🌟 Achievements
 
 - 🥇 Participant in Indonesian SAR Robot Contest
-- 🏆 Member of Workshop Brawijaya Robotics Team
+- 🏆 Member of Brawijaya Robotics Team
 - 📈 Continuous SAR technology development
 
 ## 👥 Our Team
@@ -76,7 +76,7 @@ We welcome contributions from the community! Please:
 
 ## 📞 Contact
 
-- 🏢 **Organization**: Workshop Brawijaya Robotics Team
+- 🏢 **Organization**: Brawijaya Robotics Team
 - 🎯 **Focus**: Search and Rescue Robotics
 - 🏆 **Competition**: Indonesian SAR Robot Contest
 - 📍 **Location**: Malang, East Java, Indonesia
