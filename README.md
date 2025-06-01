@@ -1,4 +1,4 @@
-# 🤖 Team Meiro - Search and Rescue Robotics
+# 🤖 MEIRO - Search and Rescue Robotics
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&width=435&lines=Team+Meiro;SAR+Robotics+Indonesia;Brawijaya+Robotics+Team" alt="Typing SVG" />
