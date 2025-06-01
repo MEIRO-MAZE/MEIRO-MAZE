@@ -1,5 +1,7 @@
 # 🤖 Team Meiro - Search and Rescue Robotics
 
+![Image](https://github.com/user-attachments/assets/923aa36c-e21f-4966-8e9a-a43d632ea310)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&width=435&lines=Team+Meiro;SAR+Robotics+Indonesia;Brawijaya+Robotics+Team" alt="Typing SVG" />
 </div>
